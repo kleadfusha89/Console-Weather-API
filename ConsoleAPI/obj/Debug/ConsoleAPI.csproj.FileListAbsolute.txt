@@ -1,0 +1,20 @@
+C:\Users\klead\Desktop\Coding Challenges\c#\ConsoleAPI\ConsoleAPI\ConsoleAPI\obj\Debug\ConsoleAPI.csprojAssemblyReference.cache
+C:\Users\klead\Desktop\Coding Challenges\c#\ConsoleAPI\ConsoleAPI\ConsoleAPI\obj\Debug\ConsoleAPI.csproj.CoreCompileInputs.cache
+C:\Users\klead\Desktop\Coding Challenges\c#\ConsoleAPI\ConsoleAPI\ConsoleAPI\bin\Debug\ConsoleAPI.exe.config
+C:\Users\klead\Desktop\Coding Challenges\c#\ConsoleAPI\ConsoleAPI\ConsoleAPI\bin\Debug\ConsoleAPI.exe
+C:\Users\klead\Desktop\Coding Challenges\c#\ConsoleAPI\ConsoleAPI\ConsoleAPI\bin\Debug\ConsoleAPI.pdb
+C:\Users\klead\Desktop\Coding Challenges\c#\ConsoleAPI\ConsoleAPI\ConsoleAPI\obj\Debug\ConsoleAPI.exe
+C:\Users\klead\Desktop\Coding Challenges\c#\ConsoleAPI\ConsoleAPI\ConsoleAPI\obj\Debug\ConsoleAPI.pdb
+C:\Users\klead\Desktop\Coding Challenges\c#\ConsoleAPI\ConsoleAPI\ConsoleAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\klead\Desktop\Coding Challenges\c#\ConsoleAPI\ConsoleAPI\ConsoleAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\klead\Desktop\Coding Challenges\c#\ConsoleAPI\ConsoleAPI\ConsoleAPI\obj\Debug\ConsoleAPI.csproj.CopyComplete
+C:\Users\klead\Desktop\Projects and Coding Challenges\c#\ConsoleAPI\ConsoleAPI\ConsoleAPI\bin\Debug\ConsoleAPI.exe.config
+C:\Users\klead\Desktop\Projects and Coding Challenges\c#\ConsoleAPI\ConsoleAPI\ConsoleAPI\bin\Debug\ConsoleAPI.exe
+C:\Users\klead\Desktop\Projects and Coding Challenges\c#\ConsoleAPI\ConsoleAPI\ConsoleAPI\bin\Debug\ConsoleAPI.pdb
+C:\Users\klead\Desktop\Projects and Coding Challenges\c#\ConsoleAPI\ConsoleAPI\ConsoleAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\klead\Desktop\Projects and Coding Challenges\c#\ConsoleAPI\ConsoleAPI\ConsoleAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\klead\Desktop\Projects and Coding Challenges\c#\ConsoleAPI\ConsoleAPI\ConsoleAPI\obj\Debug\ConsoleAPI.csprojAssemblyReference.cache
+C:\Users\klead\Desktop\Projects and Coding Challenges\c#\ConsoleAPI\ConsoleAPI\ConsoleAPI\obj\Debug\ConsoleAPI.csproj.CoreCompileInputs.cache
+C:\Users\klead\Desktop\Projects and Coding Challenges\c#\ConsoleAPI\ConsoleAPI\ConsoleAPI\obj\Debug\ConsoleAPI.csproj.CopyComplete
+C:\Users\klead\Desktop\Projects and Coding Challenges\c#\ConsoleAPI\ConsoleAPI\ConsoleAPI\obj\Debug\ConsoleAPI.exe
+C:\Users\klead\Desktop\Projects and Coding Challenges\c#\ConsoleAPI\ConsoleAPI\ConsoleAPI\obj\Debug\ConsoleAPI.pdb
